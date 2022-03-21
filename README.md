@@ -16,7 +16,7 @@
 
 Titanic: https://www.kaggle.com/c/titanic
 
-###Columnas: 
+### Columnas: 
 
 * PassengerId: numero de pasajero
 * Survived: 0 = no sobrevivio y 1 = sobrevivio
