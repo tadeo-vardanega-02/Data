@@ -1,16 +1,13 @@
-# manipulacion-de-datos
-
-
 # Data Preprocessing
 
 
-## Este repositorio tiene el objetivo de almacenar datasets y datos pre-procesados para luego poder practicar con modelos de Machine Learning, Deep Learning y cualquier analisis que se requiera
+##* Este repositorio tiene el objetivo de almacenar datasets y datos pre-procesados para luego poder practicar con modelos de Machine Learning, Deep Learning y cualquier analisis que se requiera
 
-## Existen datasets que ya vienen procesados desde la fuente
+##* Existen datasets que ya vienen procesados desde la fuente
 
-## Este repositorio tambien tiene rutas de enlace a los datasets utilizados
+##* Este repositorio tambien tiene rutas de enlace a los datasets utilizados
 
-## El procesamiento de los datos se va a hacer con Python o con R y en un futuro se haran visualizacione en Power BI o Tableu
+##* El procesamiento de los datos se va a hacer con Python o con R y en un futuro se haran visualizacione en Power BI o Tableu
 
 ### Datasets:
 
