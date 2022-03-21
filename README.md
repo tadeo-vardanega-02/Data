@@ -62,16 +62,14 @@ Iris dataset: https://www.kaggle.com/arshid/iris-flower-dataset
 Predicción de transacciones fradulentas: https://www.kaggle.com/datasets/vardhansiramdasu/fraudulent-transactions-prediction
 
 ### Columnas: 
-step: mapea una unidad de tiempo en el mundo real. En este caso 1 seria 1 hora de tiempo real. En total hay 744 (30 dias de simulacion)
-type: cash-in, cash-out, pago o transferencia
-amount: la cantidad de dinero de la transaccion local
-nameOrig: cliente que empezo la transaccion
-oldbalanceOrg: balance inicial antes de la transaccion
-newbalanceOrig: nuevo balance despues de la transaccion
-nameDest: el cliente que recibe la transaccion
-oldbalanceDest: balance inicial del que recibe, antes de la transaccion
-newbalanceDest: nuevo balance del que recibe, despues de la transaccion
-isFraud: las transacciones que pueden ser fradulentas dentro de la simulacion
-Un intento fradulento en este dataset es transferir mas de  200.000 en una sola transaccion
-
-
+* step: mapea una unidad de tiempo en el mundo real. En este caso 1 seria 1 hora de tiempo real. En total hay 744 (30 dias de simulacion)
+* type: cash-in, cash-out, pago o transferencia
+* amount: la cantidad de dinero de la transaccion local
+* nameOrig: cliente que empezo la transaccion
+* oldbalanceOrg: balance inicial antes de la transaccion
+* newbalanceOrig: nuevo balance despues de la transaccion
+* nameDest: el cliente que recibe la transaccion
+* oldbalanceDest: balance inicial del que recibe, antes de la transaccion
+* newbalanceDest: nuevo balance del que recibe, despues de la transaccion
+* isFraud: las transacciones que pueden ser fradulentas dentro de la simulacion
+* Un intento fradulento en este dataset es transferir mas de  200.000 en una sola transaccion
